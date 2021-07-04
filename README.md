@@ -1,6 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Ahmad a JS developer currently working as Front End Engineer, with expertise in React Nautve & React.js
+I am Ahmad a JS developer currently working as Front End Engineer, with expertise in React Native & React.js
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.zahid2000@gmail.com)
 
